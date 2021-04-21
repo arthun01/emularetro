@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+div#interface {
+	width: 70%;
+	background-color: #ffffff;
+	margin: -30px auto 0px auto;
+	box-shadow: 0px 0px 40px #ffffff;
+	padding: 2%;
+	margin-top: 8px;
+}
+
+body{
+    background-image: url("space.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #ffffff;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    
+}
+
+::-webkit-scrollbar-track {
+    background-color: #F4F4F4;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+    background: #dad7d7;
+}
